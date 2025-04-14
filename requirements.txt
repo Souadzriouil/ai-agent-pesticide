@@ -1,0 +1,7 @@
+langchain
+deepseek
+google-search-results
+streamlit
+python-dotenv
+pandas
+matplotlib
